@@ -10,7 +10,7 @@ ExtB_porin	100.0
 ExtC_pcc_lp_cyt	100.0  
 ExtD_pcc_lp_cyt	100.0  
 
-FeGenie Citation:
+Citations:  
 Garber AI, Nealson KH, Okamoto A, McAllister SM, Chan CS, Barco RA, and Merino N (2020) FeGenie: A Comprehensive Tool for the Identification of Iron Genes and Iron Gene Neighborhoods in Genome and Metagenome Assemblies. Front Microbiol 11:37. https://doi.org/10.3389/fmicb.2020.00037
 
 Hsu D, Flynn JR, Schuler CJ, Santelli CM, Toner BM, Bond DR, and Gralnick JA (2024) Isolation and genomic analysis of “_Metallumcola ferriviriculae_” MK1, a Gram-positive, Fe(III)-reducing bacterium from the Soudan Underground Mine, an iron-rich Martian analog site. Appl Environ Microbiol. 90:e00044-24. https://doi.org/10.1128/aem.00044-24
